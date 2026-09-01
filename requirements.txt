@@ -1,0 +1,6 @@
+# This project relies strictly on Python Standard Libraries.
+# No third-party packages (pip install) are required to run this project.
+#
+# Environment:
+# Python >= 3.8
+# Standard Modules Used: sqlite3, re, os
