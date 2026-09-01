@@ -1,0 +1,14 @@
+=== LOG ANALYSIS DIAGNOSTIC REPORT ===
+
+--- Log Level Distribution ---
+ERROR: 6
+INFO: 4
+WARNING: 2
+
+--- Critical Error Details ---
+[2026-09-01 10:17:05] Device_01: Connection timeout on port 8080.
+[2026-09-01 10:18:22] Device_03: Sensor payload corrupt: ERR_CODE_404.
+[2026-09-01 10:20:11] Device_01: Voltage drop detected: ERR_CODE_502.
+[2026-09-01 10:17:05] Device_01: Connection timeout on port 8080.
+[2026-09-01 10:18:22] Device_03: Sensor payload corrupt: ERR_CODE_404.
+[2026-09-01 10:20:11] Device_01: Voltage drop detected: ERR_CODE_502.

@@ -1,0 +1,6 @@
+2026-09-01 10:15:30 [INFO] Device_01 System booted successfully.
+2026-09-01 10:16:12 [WARNING] Device_02 High memory usage detected: 85%.
+2026-09-01 10:17:05 [ERROR] Device_01 Connection timeout on port 8080.
+2026-09-01 10:18:22 [ERROR] Device_03 Sensor payload corrupt: ERR_CODE_404.
+2026-09-01 10:19:40 [INFO] Device_02 Battery level stable at 90%.
+2026-09-01 10:20:11 [ERROR] Device_01 Voltage drop detected: ERR_CODE_502.
